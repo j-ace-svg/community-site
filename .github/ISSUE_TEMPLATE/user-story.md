@@ -3,7 +3,7 @@ name: User Story
 about: Basic template for a user story
 title: I am a [persona] and I want to [action] so I can [goal/justification]
 labels: user story
-assignees: ''
+assignees: j-ace-svg
 
 ---
 
